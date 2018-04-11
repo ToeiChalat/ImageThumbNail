@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageThumbNail</string>
+    <string name="image_thumbnail_extra_text_place_holder">+ %1d</string>
+</resources>
